@@ -2,7 +2,7 @@ import veri_isle
 import grafik_ciz
 
 # Veriyi oku
-df = veri_isle.veri_oku("veri.csv")
+df = veri_isle.veri_oku("veri.txt")
 
 # Veriyi analiz et ve ekrana yazdır
 analiz_sonucu = veri_isle.veri_analiz_et(df)
