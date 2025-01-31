@@ -1,0 +1,1 @@
+# veri_analizi_projesiy
